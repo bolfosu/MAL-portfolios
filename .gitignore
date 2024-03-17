@@ -1,0 +1,30 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+.env/
+venv/
+*.venv/
+
+# Python bytecode
+__pycache__/
+
+# Logs and other generated files
+*.log
+*.csv
+*.pkl
+*.h5
+
+# Model checkpoints and outputs
+models/
+output/
+
+# System or IDE specific files
+.DS_Store
+.vscode/
+.idea/
+
+# Miscellaneous
+*.swp   # Vim swap files
+*.swo   # Vim swap files
